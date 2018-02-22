@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Editex</string>
+    <string name="et_name_user">Nombre de Usuario</string>
+    <string name="et_password">Contraseña</string>
+    <string name="btn_open_sesion">Iniciar Sesion</string>
+    <string name="tv_sutitle">¿No Tienes Cuenta?</string>
+    <string name="tv_sutitle_link">Crea Una Aquì!</string>
 </resources>
